@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "4faa698f-6470-43e3-8a6a-7bf997aaf8c9",
+    "name": "Eucleast",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f4481dd7-4aa4-4b93-8ec4-57fbf2168a7e",
+    "name": "Meowstaches",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
